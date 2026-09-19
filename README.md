@@ -24,6 +24,9 @@ Each of these is a production system I delivered for a company. The public repos
 **For other clients**
 - 🏋️ **[The Boxx](https://github.com/abBytes-sudo/crossfit-gym-website-showcase)** — a fast, dark editorial website for a coached training studio.
 
+**Personal product experiments**
+- 🌌 **[Constellation — interactive 3D planning canvas](https://github.com/abBytes-sudo/interactive-business-planner-3d)** — turns a business plan into a navigable 3D web of initiatives, dependencies & timelines you can walk through, annotate per planning round, and extend live. Real-time WebGL, hand-built camera, single portable file. *([live demo](https://abbytes-sudo.github.io/interactive-business-planner-3d/))*
+
 ---
 
 ### 🔍 A few things under the hood I'm proud of
@@ -42,7 +45,7 @@ Each of these is a production system I delivered for a company. The public repos
 - **Full delivery** — requirements → architecture → build → deploy → run, solo.
 
 ### 🧰 Tech I work with
-`Laravel` · `PHP` · `Livewire` · `Filament` · `Alpine.js` · `Tailwind CSS` · `MySQL` · `Blade` · REST APIs · `HTML/CSS/JS` · web-push · payment integrations
+`Laravel` · `PHP` · `Livewire` · `Filament` · `Alpine.js` · `Tailwind CSS` · `MySQL` · `Blade` · REST APIs · `React` · `Three.js / WebGL` · `HTML/CSS/JS` · web-push · payment integrations
 
 ### 📫 Reach me
 **abhimasih0505@gmail.com** · **+91 73039 37702**
