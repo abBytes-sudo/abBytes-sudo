@@ -27,6 +27,15 @@ Each of these is a production system I delivered for a company. The public repos
 
 ---
 
+### 🔍 A few things under the hood I'm proud of
+
+- A **bidirectional property↔lead matching engine** that scores live inventory against every open requirement (BHK, area, budget, freshness) and alerts the team the moment a new listing fits a waiting buyer.
+- A **BOQ quotation engine** with a 500+ item rate library, version history & restore, and a client portal where clients review, message, and accept/decline with an audit trail.
+- **Roofie**, an in-house front-desk assistant that reads a free-text brief, pulls live matches, quotes neighbourhood price bands, and books visits — with a human able to take over mid-chat.
+- Telephony integration powering **calling queues, call recordings and screen-pops**, plus DLT-compliant WhatsApp/SMS.
+- An **HR incentive engine** (points → paid leave or cash) and attendance→salary automation for the design studio.
+- Server-side **Meta Conversions API**, **web-push notifications**, visitor-dwell analytics, and campaign funnels.
+
 ### 🛠️ How I build
 
 - **Agentic AI development** — I orchestrate AI coding agents to design, build, test and deploy, reviewing and directing throughout.
