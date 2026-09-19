@@ -22,7 +22,6 @@ Each of these is a production system I delivered for a company. The public repos
 - 🎨 **[Studio website + 250-project portfolio](https://github.com/abBytes-sudo/interior-design-studio-website-showcase)** — editorial design, an animated 3D-floorplan hero, filterable project pages. *(live: buildwithsnc.com)*
 
 **For other clients**
-- 🎸 **[BandstandHub](https://github.com/abBytes-sudo/live-entertainment-booking-platform-showcase)** — a hyper-local live-entertainment marketplace connecting fans, entertainers, venues and services, with four role-specific dashboards and payments.
 - 🏋️ **[The Boxx](https://github.com/abBytes-sudo/crossfit-gym-website-showcase)** — a fast, dark editorial website for a coached training studio.
 
 ---
