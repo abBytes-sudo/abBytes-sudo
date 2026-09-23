@@ -19,7 +19,7 @@ Each of these is a production system I delivered for a company. The public repos
 
 **For SNC — an interior-design & construction studio**
 - 📐 **[Interior-design CRM & ERP](https://github.com/abBytes-sudo/interior-design-crm-showcase)** — dual-track lead pipeline, BOQ quotations with a client-facing portal, project delivery with its own portal, a 100+ item material master, procurement, discovery-call scheduling, and an HR/incentives module.
-- 🎨 **[Studio website + 250-project portfolio](https://github.com/abBytes-sudo/interior-design-studio-website-showcase)** — editorial design, an animated 3D-floorplan hero, filterable project pages. *(live: buildwithsnc.com)*
+- 🎨 **[Studio website + project portfolio](https://github.com/abBytes-sudo/interior-design-studio-website-showcase)** — editorial design, an animated 3D-floorplan hero, filterable project pages. *(live: buildwithsnc.com)*
 
 **For other clients**
 - 🏋️ **[The Boxx](https://github.com/abBytes-sudo/crossfit-gym-website-showcase)** — a fast, dark editorial website for a coached training studio.
