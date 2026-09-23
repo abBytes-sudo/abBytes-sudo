@@ -13,7 +13,7 @@ I'm doing a BCA specialising in **Agentic AI**, and I came to software from ~4 y
 Each of these is a production system I delivered for a company. The public repos below are write-ups with full desktop + mobile screenshots; the source lives in private repos I'm glad to share with a serious reviewer.
 
 **For Rent A Roof — a South Delhi real-estate brokerage**
-- 🏢 **[Real-estate CRM & operations platform](https://github.com/abBytes-sudo/real-estate-crm-showcase)** — lead pipeline, property inventory with multi-unit buildings, an engine that auto-matches inventory to open requirements, deals & closures, an AI front-desk assistant, a website CMS, and full analytics. One system, one source of truth. *(live: rentaroof.in)*
+- 🏢 **[Real-estate CRM & operations platform](https://github.com/abBytes-sudo/real-estate-crm-showcase)** — lead pipeline, property inventory with multi-unit buildings, an engine that auto-matches inventory to open requirements, deals & closures, an automated front-desk assistant, a website CMS, and full analytics. One system, one source of truth. *(live: rentaroof.in)*
 - 🌐 **[Public property website](https://github.com/abBytes-sudo/real-estate-listings-website-showcase)** — searchable live listings, locality guides, property pages, a phone-OTP customer area. *(live production)*
 - ☎️ **[Partner / telecalling portal](https://github.com/abBytes-sudo/realestate-partner-portal-showcase)** — a lean lead-working tool: upload, call, qualify, book visits, follow up.
 
