@@ -4,16 +4,16 @@
 
 I take messy operational work (scattered leads, listings nobody trusts, manual quotes) and design one system to replace it, from requirements through data migration, go-live and training.
 
-### Results (Rent A Roof production data, as of 23 Oct 2026)
+### Results (Real Estate Platform production data, as of 6 Nov 2026)
 
 - **Moved Rent A Roof off a 12-seat subscription CRM in 3 months** (Jun–Sep 2026) to a self-hosted CRM and website; production cutover on 9 Sep 2026.
 - **6,089 legacy lead records and 27,516 history events migrated in one import, 0 rejected** (30 Jul 2026).
 - **2,397 tasks completed by the team in the 30 days to 22 Oct**, up from 1,014 in the 30 days to 5 Oct.
 - **2,248 property↔lead matches** in the 30 days to 22 Oct.
-- **12,152 live listings, 98% loaded by import**; 6,843 of them active and published on rentaroof.in.
+- **12,152 live listings, 98% loaded by import** (22 Oct 2026); 6,564 active and published on rentaroof.in (6 Nov 2026).
 - **Two monthly print listing magazines now load by PDF upload**: 2 issues, 21,182 printed lines read, 16,441 listings refreshed and 3,101 added, with 274 human review decisions (23 Oct 2026).
-- **113 of 383 new leads were organic** (not from paid ads or portals) in the 1.5 months after go-live (9 Sep – 23 Oct 2026), and **51% of them became qualified requirements, against 22% of Meta-ad leads**.
-- **16 new leads enquired about a specific listing organically** through the website's scripted assistant, 8 of them straight from Google search; organic Google visitors grew from 14 to 369 a week within a month of the relaunch.
+- **147 of 496 new leads were organic** (not from paid ads or portals) in about 2 months after go-live (9 Sep – 6 Nov 2026), and **58% of them became qualified requirements, against 23% of Meta-ad leads**.
+- **20 new leads enquired about a specific listing organically** through the website's scripted assistant, 11 of them straight from Google search; engaged visitors from Google search grew from 26 to 103 a week within two months of the relaunch.
 
 ---
 
@@ -26,7 +26,7 @@ For Rent A Roof, a South Delhi property-consultation company. Lead pipeline, a 1
 [Write-up](https://github.com/abBytes-sudo/real-estate-crm-showcase) · [Interactive demo](https://abbytes-sudo.github.io/real-estate-crm-showcase/)
 
 **2. [Real Estate Platform — public website](https://github.com/abBytes-sudo/real-estate-listings-website-showcase)** · *Live at [rentaroof.in](https://rentaroof.in), relaunched Sep 2026*\
-6,843 active listings (22 Oct 2026) published straight from CRM inventory, plain-English search, locality and colony pages, a price guide, compare and shortlists, a phone-OTP customer dashboard, and Roofie, a scripted (rule-based) enquiry assistant. Rent searches for 5 key South Delhi localities reached Google's first page within 30 days of the relaunch.\
+6,564 active listings (6 Nov 2026) published straight from CRM inventory, plain-English search, locality and colony pages, a price guide, compare and shortlists, a phone-OTP customer dashboard, and Roofie, a scripted (rule-based) enquiry assistant. Rent searches for 5 key South Delhi localities reached Google's first page within 30 days of the relaunch.\
 [Write-up](https://github.com/abBytes-sudo/real-estate-listings-website-showcase) · [Live site](https://rentaroof.in)
 
 **3. [Construction & Interior Design Firm — CRM / ERP](https://github.com/abBytes-sudo/interior-design-crm-showcase)** · *Deployed May 2026, team rollout pending*\
