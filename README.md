@@ -2,6 +2,8 @@
 
 **Operations & CRM Lead** · Rent A Roof and SNC, New Delhi (Nov 2022 – present)
 
+**Portfolio:** [abbytes-sudo.github.io](https://abbytes-sudo.github.io/) · [The 3D Lab](https://abbytes-sudo.github.io/lab.html)
+
 I take messy operational work (scattered leads, listings nobody trusts, manual quotes) and design one system to replace it, from requirements through data migration, go-live and training.
 
 ### Results (Real Estate Platform production data, as of 6 Nov 2026)
@@ -29,7 +31,7 @@ For Rent A Roof, a South Delhi property-consultation company. Lead pipeline, a 1
 6,564 active listings (6 Nov 2026) published straight from CRM inventory, plain-English search, locality and colony pages, a price guide, compare and shortlists, a phone-OTP customer dashboard, and Roofie, a scripted (rule-based) enquiry assistant. Rent searches for 5 key South Delhi localities reached Google's first page within 30 days of the relaunch.\
 [Write-up](https://github.com/abBytes-sudo/real-estate-listings-website-showcase) · [Live site](https://rentaroof.in)
 
-**3. [Construction & Interior Design Firm — CRM / ERP](https://github.com/abBytes-sudo/interior-design-crm-showcase)** · *Deployed May 2026, team rollout pending*\
+**3. [Construction & Interior Design Firm — CRM / ERP](https://github.com/abBytes-sudo/interior-design-crm-showcase)** · *Live since May 2026*\
 For SNC, a construction and interiors firm. Designed for the studio's quoting and project delivery: BOQ quotations priced from a 569-item rate card (33 sections), client quote and project portals, and a won quote that becomes a project plan with tasks and milestones in one step. Built over about two months, AI-assisted.\
 [Write-up](https://github.com/abBytes-sudo/interior-design-crm-showcase) · [Interactive demo](https://abbytes-sudo.github.io/interior-design-crm-showcase/)
 
@@ -42,11 +44,8 @@ Rebuilt and relaunched a gym's website in about 19 hours (Apr 2026, AI-assisted)
 [Write-up](https://github.com/abBytes-sudo/crossfit-gym-website-showcase) · [Live site](https://theboxx.in)
 
 **6. [Construction & Interior Design Firm — website](https://github.com/abBytes-sudo/interior-design-studio-website-showcase)** · *Live at [buildwithsnc.com](https://buildwithsnc.com)*\
-32 pages (Oct 2026), including 17 project pages (14 projects) and 5 articles; the contact form tags 5 enquiry types.\
+30 pages (6 Nov 2026), including 17 project pages (14 projects) and 5 articles; the contact form tags 5 enquiry types.\
 [Write-up](https://github.com/abBytes-sudo/interior-design-studio-website-showcase) · [Live site](https://buildwithsnc.com)
-
-**7. Entertainment Platform (Encore)** · *Client project, not public; screens on request*\
-A hyper-local marketplace where one account can hold several user types (fan, entertainer, venue, service provider), each with its own working dashboard, plus city-partner (liaison) dashboards with referral commissions paid out in two steps, a super-admin console, and Post Studio, a built-in social-media post editor. 68 verified updates shipped in 7 weeks across 4 client testing rounds (Jun–Jul 2026), AI-assisted.
 
 **Retired:** [Partner / telecalling portal](https://github.com/abBytes-sudo/realestate-partner-portal-showcase) · *Retired Sep 2026*\
 Built in May 2026 for one field agent (132 leads by 29 May; 348 in the calling queue by 10 Jun). Its leads moved into the Rent A Roof CRM in July 2026.
