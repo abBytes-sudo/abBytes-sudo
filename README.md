@@ -27,9 +27,9 @@ The client write-ups show desktop and mobile screenshots from demo builds. Clien
 For Rent A Roof, a South Delhi property-consultation company. Lead pipeline, a 12,152-listing inventory (22 Oct 2026) kept current by importers (including the magazine-PDF importer), property↔lead matching, tasks and alerts, a listing-verification desk with an owner-calling screen, deals and brokerage dues, and Knowlarity click-to-call and DLT SMS connected to the CRM.\
 [Write-up](https://github.com/abBytes-sudo/real-estate-crm-showcase) · [Interactive demo](https://abbytes-sudo.github.io/real-estate-crm-showcase/)
 
-**2. [Real Estate Platform — public website](https://github.com/abBytes-sudo/real-estate-listings-website-showcase)** · *Live at [rentaroof.in](https://rentaroof.in), relaunched Sep 2026*\
+**2. [Real Estate Platform — public website](https://github.com/abBytes-sudo/real-estate-listings-website-showcase)** · *Live at rentaroof.in, relaunched Sep 2026*\
 6,564 active listings (6 Nov 2026) published straight from CRM inventory, plain-English search, locality and colony pages, a price guide, compare and shortlists, a phone-OTP customer dashboard, and Roofie, a scripted (rule-based) enquiry assistant. Rent searches for 5 key South Delhi localities reached Google's first page within 30 days of the relaunch.\
-[Write-up](https://github.com/abBytes-sudo/real-estate-listings-website-showcase) · [Live site](https://rentaroof.in)
+[Write-up](https://github.com/abBytes-sudo/real-estate-listings-website-showcase) · Live site: rentaroof.in
 
 **3. [Construction & Interior Design Firm — CRM / ERP](https://github.com/abBytes-sudo/interior-design-crm-showcase)** · *Live since May 2026*\
 For SNC, a construction and interiors firm. Designed for the studio's quoting and project delivery: BOQ quotations priced from a 569-item rate card (33 sections), client quote and project portals, and a won quote that becomes a project plan with tasks and milestones in one step. Built over about two months, AI-assisted.\
