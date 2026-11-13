@@ -1,6 +1,6 @@
 # Abhishek Anand Masih
 
-**Operations & CRM Lead** · Rent A Roof and SNC, New Delhi (Nov 2022 – present)
+**Operations & CRM Lead** · a Delhi real estate agency with its own online platform, and SNC, New Delhi (Nov 2022 – present)
 
 **Portfolio:** [abbytes-sudo.github.io](https://abbytes-sudo.github.io/) · [The 3D Lab](https://abbytes-sudo.github.io/lab.html)
 
@@ -8,11 +8,11 @@ I take messy operational work (scattered leads, listings nobody trusts, manual q
 
 ### Results (Real Estate Platform production data, as of 6 Nov 2026)
 
-- **Moved Rent A Roof off a 12-seat subscription CRM in 3 months** (Jun–Sep 2026) to a self-hosted CRM and website; production cutover on 9 Sep 2026.
+- **Moved a Delhi real estate agency with its own online platform off a 12-seat subscription CRM in 3 months** (Jun–Sep 2026) to a self-hosted CRM and website; production cutover on 9 Sep 2026.
 - **6,089 legacy lead records and 27,516 history events migrated in one import, 0 rejected** (30 Jul 2026).
 - **2,397 tasks completed by the team in the 30 days to 22 Oct**, up from 1,014 in the 30 days to 5 Oct.
 - **2,248 property↔lead matches** in the 30 days to 22 Oct.
-- **12,152 live listings, 98% loaded by import** (22 Oct 2026); 6,564 active and published on rentaroof.in (6 Nov 2026).
+- **12,152 live listings, 98% loaded by import** (22 Oct 2026); 6,564 active and published on the agency's website (6 Nov 2026).
 - **Two monthly print listing magazines now load by PDF upload**: 2 issues, 21,182 printed lines read, 16,441 listings refreshed and 3,101 added, with 274 human review decisions (23 Oct 2026).
 - **147 of 496 new leads were organic** (not from paid ads or portals) in about 2 months after go-live (9 Sep – 6 Nov 2026), and **58% of them became qualified requirements, against 23% of Meta-ad leads**.
 - **20 new leads enquired about a specific listing organically** through the website's scripted assistant, 11 of them straight from Google search; engaged visitors from Google search grew from 26 to 103 a week within two months of the relaunch.
@@ -24,12 +24,12 @@ I take messy operational work (scattered leads, listings nobody trusts, manual q
 The client write-ups show desktop and mobile screenshots from demo builds. Client source code stays private; walkthroughs on request.
 
 **1. [Real Estate Platform — CRM & operations](https://github.com/abBytes-sudo/real-estate-crm-showcase)** · *Live, in daily use since 9 Sep 2026*\
-For Rent A Roof, a South Delhi property-consultation company. Lead pipeline, a 12,152-listing inventory (22 Oct 2026) kept current by importers (including the magazine-PDF importer), property↔lead matching, tasks and alerts, a listing-verification desk with an owner-calling screen, deals and brokerage dues, and Knowlarity click-to-call and DLT SMS connected to the CRM.\
+For a Delhi real estate agency with its own online platform. Lead pipeline, a 12,152-listing inventory (22 Oct 2026) kept current by importers (including the magazine-PDF importer), property↔lead matching, tasks and alerts, a listing-verification desk with an owner-calling screen, deals and brokerage dues, and Knowlarity click-to-call and DLT SMS connected to the CRM.\
 [Write-up](https://github.com/abBytes-sudo/real-estate-crm-showcase) · [Interactive demo](https://abbytes-sudo.github.io/real-estate-crm-showcase/)
 
-**2. [Real Estate Platform — public website](https://github.com/abBytes-sudo/real-estate-listings-website-showcase)** · *Live at rentaroof.in, relaunched Sep 2026*\
+**2. [Real Estate Platform — public website](https://github.com/abBytes-sudo/real-estate-listings-website-showcase)** · *Live, relaunched Sep 2026*\
 6,564 active listings (6 Nov 2026) published straight from CRM inventory, plain-English search, locality and colony pages, a price guide, compare and shortlists, a phone-OTP customer dashboard, and Roofie, a scripted (rule-based) enquiry assistant. Rent searches for 5 key South Delhi localities reached Google's first page within 30 days of the relaunch.\
-[Write-up](https://github.com/abBytes-sudo/real-estate-listings-website-showcase) · Live site: rentaroof.in
+[Write-up](https://github.com/abBytes-sudo/real-estate-listings-website-showcase)
 
 **3. [Construction & Interior Design Firm — CRM / ERP](https://github.com/abBytes-sudo/interior-design-crm-showcase)** · *Live since May 2026*\
 For SNC, a construction and interiors firm. Designed for the studio's quoting and project delivery: BOQ quotations priced from a 569-item rate card (33 sections), client quote and project portals, and a won quote that becomes a project plan with tasks and milestones in one step. Built over about two months, AI-assisted.\
@@ -48,13 +48,13 @@ Rebuilt and relaunched a gym's website in about 19 hours (Apr 2026, AI-assisted)
 [Write-up](https://github.com/abBytes-sudo/interior-design-studio-website-showcase) · [Live site](https://buildwithsnc.com)
 
 **Retired:** [Partner / telecalling portal](https://github.com/abBytes-sudo/realestate-partner-portal-showcase) · *Retired Sep 2026*\
-Built in May 2026 for one field agent (132 leads by 29 May; 348 in the calling queue by 10 Jun). Its leads moved into the Rent A Roof CRM in July 2026.
+Built in May 2026 for one field agent (132 leads by 29 May; 348 in the calling queue by 10 Jun). Its leads moved into the agency's CRM in July 2026.
 
 ---
 
 ### How I build: AI-assisted
 
-I gather the requirements, make the product decisions, direct AI coding tools and test every change; then I run the data migration, go-live and team training. Earlier versions of the Rent A Roof website were built by outside teams I coordinated.
+I gather the requirements, make the product decisions, direct AI coding tools and test every change; then I run the data migration, go-live and team training. Earlier versions of the agency's website were built by outside teams I coordinated.
 
 **Built with:** Laravel · Livewire · Filament · Alpine.js · Tailwind CSS · MySQL · React · Three.js · HTML/CSS/JS
 
